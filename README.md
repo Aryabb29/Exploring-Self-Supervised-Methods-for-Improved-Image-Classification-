@@ -10,10 +10,10 @@ This repository showcases the implementation and experimentation of state-of-the
 * State-of-the-Art SSL Techniques: Implemented and compared advanced SSL methods, showcasing their effectiveness in extracting meaningful features from unlabeled data and pushing the boundaries of machine learning innovation.
 
 ## Project Details
-Dataset: STL10 \n
-Framework: PyTorch \n 
-Techniques: SimCLR, BYOL \n
-Results: Up to 5% improvement in classification accuracy and 20% reduction in training time
+* Dataset: STL10 
+* Framework: PyTorch  
+* Techniques: SimCLR, BYOL 
+* Results: Up to 5% improvement in classification accuracy and 20% reduction in training time
 
 Explore the code and experiments to see how these self-supervised methods can drive advancements in image classification tasks.
 
